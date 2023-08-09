@@ -1,4 +1,4 @@
-package com.hefesto.laboratoriosandroid
+package com.hefesto.laboratoriosandroid.ui.activities
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
